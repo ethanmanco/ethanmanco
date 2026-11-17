@@ -2,10 +2,17 @@ Full-stack developer in Shreveport, LA. I build web apps, games, and tools with 
 
 [mancolabs.dev](https://mancolabs.dev) · [The Lab](https://mancolabs.dev/lab/)
 
+### Insert Rhyme
+<a href="https://ethanmanco.github.io/insert-rhyme/"><img src="assets/insert-rhyme.gif" width="260" alt="Insert Rhyme on a phone at 90 BPM: after a four-beat count in, a ball bounces across four blocks per bar and lands on the highlighted fourth block where the rhyme goes, while the next bars' rhyme words wait underneath."></a>
+
+Free 8-bit freestyle rap practice. Pick a beat, watch the ball bounce across each bar, and land your rhymes on the bright blocks. No accounts, no ads, nothing to pay for, and nothing leaves your device.
+
+[Live demo](https://ethanmanco.github.io/insert-rhyme/) · [Code](https://github.com/ethanmanco/insert-rhyme)
+
 ### Steplab
 <a href="https://ethanmanco.github.io/steplab/"><img src="assets/steplab.gif" width="600" alt="Steplab playing a beat: patterns and channels on the left, and a playlist of drum, bass, hook, and pad clips on the right, with the playhead moving across."></a>
 
-A simple beat maker in your browser, laid out like FL Studio with the same shortcuts so what you learn carries over to FL Studio: make drum loops and melodies, then arrange them into a song.
+A simple beat maker in your browser, laid out like FL Studio with the same shortcuts, so what you learn carries over: make drum loops and melodies, then arrange them into a song.
 
 [Live demo](https://ethanmanco.github.io/steplab/) · [Code](https://github.com/ethanmanco/steplab)
 
@@ -19,7 +26,7 @@ A guitar fretboard for people who read tab: pick a chord, scale, or arpeggio in 
 ### Earcade
 <a href="https://ethanmanco.github.io/earcade/"><img src="assets/earcade.gif" width="260" alt="An Earcade Intervals round on a phone: picking Intervals and Beginner, one right answer, then a miss that shows the right answer and a Hear yours button."></a>
 
-An 8-bit ear and theory trainer for your phone: quick 10-question rounds on intervals, chords, scale degrees, and the fretboard, with XP and a daily streak.
+An 8-bit ear and theory trainer for your phone: name intervals, chords, and scale degrees by ear, or find notes on the fretboard, in quick rounds of 10.
 
 [Live demo](https://ethanmanco.github.io/earcade/) · [Code](https://github.com/ethanmanco/earcade)
 
